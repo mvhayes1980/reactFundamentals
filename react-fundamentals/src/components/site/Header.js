@@ -8,7 +8,7 @@ const Header = () => {
                 <NavbarBrand href="/">React Library</NavbarBrand>
                 <Nav className="ml-auto" navbar>
                     <NavItem>
-                        <NavLink href="https://github.com/yourhandle/yourrepoforthisapp">
+                        <NavLink href="https://github.com/mvhayes1980/reactFundamentals">
                             Github
                         </NavLink>
                     </NavItem>
